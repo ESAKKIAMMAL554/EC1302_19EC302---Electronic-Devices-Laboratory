@@ -54,12 +54,14 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
 **Reverse Resistance**  **R<sub>R</sub> = ΔV<sub>R</sub> / ΔI<sub>R</sub> (Ω)** 
 
 ## TABULATION:
-![WhatsApp Image 2025-11-26 at 21 51 36_062cb087](https://github.com/user-attachments/assets/e1d36958-6440-4254-b13f-126ce798a84a)
+
+![WhatsApp Image 2025-11-27 at 09 33 02_cdd76c24](https://github.com/user-attachments/assets/848c10aa-3449-410e-b7cc-636fafffee5a)
 
 ## CALCULATIONS:
-![WhatsApp Image 2025-11-26 at 21 51 35_b3dd7e67](https://github.com/user-attachments/assets/8f9b430f-db63-4b5a-a068-cebb76761ed7)
 
-## GRAPH:
+![WhatsApp Image 2025-11-27 at 09 33 02_5f357dcc](https://github.com/user-attachments/assets/700e7a7d-ba06-44d4-ab1a-bc7e95ed5a65)
+
+## Graph:
 ![WhatsApp Image 2025-11-26 at 21 51 35_8d757c63](https://github.com/user-attachments/assets/506ec9e6-859d-4a94-8478-4fc93e972c41)
 
  ## RESULTS:
