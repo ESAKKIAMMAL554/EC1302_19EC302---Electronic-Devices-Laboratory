@@ -25,9 +25,8 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 
-![WhatsApp Image 2025-11-26 at 22 22 51_e4410994](https://github.com/user-attachments/assets/530041c0-2065-4898-9c94-a9622d80694b)
-
-![WhatsApp Image 2025-11-26 at 22 22 53_0b11f01e](https://github.com/user-attachments/assets/dbf4b57f-22d9-49df-b750-633a41154377)
+<img width="1908" height="859" alt="Screenshot 2025-11-27 091608" src="https://github.com/user-attachments/assets/c7650fd6-a14b-40cf-a79f-8ad528c76581" />
+<img width="1918" height="841" alt="Screenshot 2025-11-27 091625" src="https://github.com/user-attachments/assets/1e1a90a7-fb92-49fb-917c-84ca285ffc0e" />
 
 
 ## OUTPUT GRAPH:
@@ -35,9 +34,11 @@ LT-Spice
 
 <img width="1915" height="1009" alt="Screenshot 2025-11-26 222610" src="https://github.com/user-attachments/assets/8ed337af-c470-47c2-8b53-82ccc74d4897" />
 
-![WhatsApp Image 2025-11-26 at 22 22 50_9bd64924](https://github.com/user-attachments/assets/0bb8c79f-d8a9-4318-a3c2-78d6c8ba9c9d)
+![WhatsApp Image 2025-11-27 at 09 21 08_301c74fd](https://github.com/user-attachments/assets/9197c4e6-7975-4109-8bf7-54f847b25217)
 
-![WhatsApp Image 2025-11-26 at 22 22 50_25f24082](https://github.com/user-attachments/assets/a8388878-30bc-457f-baf1-bb619b38864e)
+
+![WhatsApp Image 2025-11-27 at 09 21 09_b18f72d4](https://github.com/user-attachments/assets/67f24406-7ed3-474e-b89c-fd5049148c48)
+
 
 ## RESULT:
 Thus the drain and transfer characteristics of N-channel JFET circuit using LT-spice is simulated and verified. 
