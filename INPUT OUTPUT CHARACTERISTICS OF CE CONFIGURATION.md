@@ -17,7 +17,8 @@ A NPN function transistor consist of a silicon (or germanium) crystal in which a
 ## FORWARD BIAS:
 
 ## REVERSE BIAS:
- ![WhatsApp Image 2025-11-26 at 22 01 19_7ede7b78](https://github.com/user-attachments/assets/7eef7856-7d76-4837-8f2c-f7f1653f8a64)
+
+![WhatsApp Image 2025-11-27 at 09 41 42_45ada56f](https://github.com/user-attachments/assets/ef534de5-7540-4c2c-9ea9-24d5a12a6ece)
 
 ## MODEL GRAPH:
 ![WhatsApp Image 2025-11-26 at 22 01 19_61c77ce3](https://github.com/user-attachments/assets/e9edb244-902e-450c-b54e-a13056399597)
@@ -60,15 +61,14 @@ A NPN function transistor consist of a silicon (or germanium) crystal in which a
 ![WhatsApp Image 2025-11-26 at 22 01 20_61e32774](https://github.com/user-attachments/assets/45291993-dc80-4519-ab08-709cdcf18432)
 
 ## OUTPUT CHARATERISTICS:
-![WhatsApp Image 2025-11-26 at 22 01 21_5c033261](https://github.com/user-attachments/assets/96de389e-4cb3-487a-93f5-4c97eb4789b8)
 
-## CALCULATIONS:
-![WhatsApp Image 2025-11-26 at 22 01 21_680120df](https://github.com/user-attachments/assets/323bbbc3-51bb-4917-8fcf-89db0520ba77)
+![WhatsApp Image 2025-11-27 at 09 42 44_9dca38a0](https://github.com/user-attachments/assets/0524c9ce-7742-4516-8f0c-dddf69844833)
 
 ## GRAPH:
 ![WhatsApp Image 2025-11-26 at 22 01 21_6875da53](https://github.com/user-attachments/assets/9a067b52-389f-487a-9734-433f9fea3c1d)
 
-![WhatsApp Image 2025-11-26 at 22 01 22_de5b13eb](https://github.com/user-attachments/assets/509f9347-542f-4b23-933e-6abefecf69a9)
+![WhatsApp Image 2025-11-27 at 09 45 46_4a618daf](https://github.com/user-attachments/assets/0025000d-3edd-4689-91f3-330e0da48987)
+
 
  ## RESULT:
  The input and output characteristics of transistor in CE mode is drawn and, the h parameters are calculated.
