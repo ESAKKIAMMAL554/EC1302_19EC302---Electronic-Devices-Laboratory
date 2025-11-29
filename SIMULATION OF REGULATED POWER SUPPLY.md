@@ -1,4 +1,4 @@
-# SIMULATION OF REGULATED POWER SUPPLY
+o# SIMULATION OF REGULATED POWER SUPPLY
 
 ## AIM:
 To design and simulate the a complete AC to DC power supply using LTspice consisting of a transformer, bridge rectifier, smoothing capacitor, Zener diode voltage regulator and load, and to observe the output waveform at each stage.
@@ -41,15 +41,21 @@ LT-Spice
 
 ## AC INPUT WAVEFORM:
 <img width="779" height="390" alt="Screenshot 2025-11-26 223727" src="https://github.com/user-attachments/assets/c0be6415-c179-477a-8788-005e6f0b773c" />
+![WhatsApp Image 2025-11-29 at 09 34 25_a1bb440e](https://github.com/user-attachments/assets/88968bcf-5d65-498b-9ee6-4cce11e01c33)
 
 
 ## OUTPUT GRAPH:
 ## SIGNAL OUTPUT(WITHOUT FILTER)
 <img width="778" height="393" alt="Screenshot 2025-11-26 223738" src="https://github.com/user-attachments/assets/33e1b892-ae89-4568-9d93-4126b3f58724" />
 
+![WhatsApp Image 2025-11-29 at 09 31 56_948d0a19](https://github.com/user-attachments/assets/d1aa4042-82d3-416c-b6b3-031244931dad)
+
 ## SIGNAL OUTPUT(WITH FILTER)
 
 <img width="776" height="388" alt="Screenshot 2025-11-26 223746" src="https://github.com/user-attachments/assets/83f25ef9-8582-4571-a5bf-e0bee2798e49" />
+
+
+![WhatsApp Image 2025-11-29 at 09 32 01_c4221ff8](https://github.com/user-attachments/assets/b1917d17-30de-4e7b-b8d8-dfb84c6f2d78)
 
 
 ## RESULT:
